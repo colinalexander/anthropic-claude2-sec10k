@@ -1,0 +1,6 @@
+anthropic==0.3.6
+loguru==0.7.0
+openai==0.27.8
+python-dotenv==1.0.0
+sec-api==1.0.17  # https://pypi.org/project/sec-api/
+langchain==0.0.247
