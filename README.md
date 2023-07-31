@@ -86,6 +86,10 @@ python -m src.main
 ```
 # Sample output
 
+Output for several companies can be found in [data/results](data/results/)
+
+Here is a sample:
+
 ![Microsoft_10-K_Analysis](data/static/MSFT_10K_20230630.png)
 
 # Tests
