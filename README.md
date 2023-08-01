@@ -117,7 +117,7 @@ tests/test_utils.py ......                                                      
 
 ```
 
-# Roadmap
+# Roadmap (according to Claude...)
 
 ## Version 0.0.1 (Current)
 
