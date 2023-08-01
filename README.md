@@ -70,7 +70,7 @@ You can either pass a list of CIK values directly, e.g.
 python -m src.main 0000320193 0000858877 0000796343
 ```
 
-or else put them in `data/ciks.txt` and run the code as follows:
+or else put them in [`data/ciks.txt`](data/ciks.txt) and run the code as follows:
 
 ```console
 python -m src.main
